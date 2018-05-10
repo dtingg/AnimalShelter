@@ -2,8 +2,7 @@
     <string name="app_name">AnimalShelter</string>
     <string name="top_image">Cute puppy and kitten</string>
     <string name="business">Seattle Animal Shelter</string>
-    <string name="address1">2061 15th Ave W</string>
-    <string name="address2">Seattle, WA 98119</string>
+    <string name="address">2061 15th Ave W\nSeattle, WA 98119</string>
     <string name="phone">206-386-7387</string>
     <string name="website">www.seattle.gov/animalshelter</string>
     <string name="adoption">Adoption Hours:</string>
